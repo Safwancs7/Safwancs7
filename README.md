@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hello!+I'm+Safwan;Electronics+%26+Communication+Student;Focus+%26+Gain" />
 </p>
 <h1 align="center" style="color:#00F7FF;">Hello! I'm Safwan 🚀</h1>
-
-<h3 align="center">💛 I Love Programming</h3>
-
 ---
 
 ### 👨‍💻 About Me
