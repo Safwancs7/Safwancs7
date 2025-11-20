@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello!+I'm+Safwan;Electronics+%26+Communication+Engineering+Student;Focus+%26+Gain" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=Hello!+I'm+Safwan;Electronics+%26+Communication+Engineering+Student;Focus+%26+Gain" />
 </p>
-<h1 align="center" style="color:#00F7FF;">Hello! I'm Safwan 🚀</h1>
 ---
-
 ### 👨‍💻 About Me
 <h1 align="center" style="color:#00F7FF;">Hey! I'm Safwan 🚀</h1>
 - 🎓 Electronics & Communication Engineering Student  
