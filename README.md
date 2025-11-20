@@ -25,7 +25,7 @@
 <a href="https://instagram.com/_safw4n__"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"></a>
 <a href="https://github.com/Safwancs7"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"></a>
 <a href="https://discord.com/users/safwan_cs"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a/>
-<a href="https://app.mulearn.org/user/muhammadsafwancs"><img src="https://img.shields.io/badge/MuLearn-00C853?style=for-the-badge&logo=leaflet&logoColor=white"></a>
+<a href="https://app.mulearn.org/user/muhammadsafwancs@mulearn"><img src="https://img.shields.io/badge/MuLearn-00C853?style=for-the-badge&logo=leaflet&logoColor=white"></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
 
