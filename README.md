@@ -1,12 +1,7 @@
-<!-- FIRST LINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello!+I'm+Safwan" />
-</p>
-<!-- SECOND & THIRD LINE (yellow) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&pause=1000&color=FFFF00&center=true&vCenter=true&width=800&lines=ECE+Undergraduate+Student;Focus+%26+Gain🎯" />
-</p>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile;System+Activated;Access+Granted+✅" />
+</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
 
 ### 👤 About Me
 
@@ -16,7 +11,7 @@
 - 📍 India
 - 📬 How to reach me: **safwancs143@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
 
 ### 🌐 Connect with Me
 
@@ -27,7 +22,7 @@
 <a href="https://discord.com/users/safwan_cs"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a/>
 <a href="https://app.mulearn.org/dashboard/profile"><img src="https://img.shields.io/badge/MuLearn-00C853?style=for-the-badge&logo=leaflet&logoColor=white"></a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
 
 ## 🚀 Tech Stack
 
@@ -51,75 +46,90 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safwancs7&show_icons=true&theme=tokyonight" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
 
-<!-- SYSTEM WINDOW -->
-<div align="center">
+<table align="center" style="border:2px solid #4ea3ff;background:#0b1d4f;color:white;
+padding:10px;border-radius:10px;width:360px;font-family:Arial;">
   
-  <div style="max-width:430px;border:1px solid #00e5ff;border-radius:8px;padding:14px 18px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#050816;">
-    
-  <div style="font-size:14px;letter-spacing:0.18em;color:#7df9ff;text-transform:uppercase;margin-bottom:10px;text-align:left;">
-    SYSTEM STATUS
-  </div>
+<tr>
+  <th colspan="2" style="font-size:20px;letter-spacing:4px;padding:8px 0;">
+    STATUS
+  </th>
+</tr>
 
-  <!-- Top line: Level / Rank / Mode -->
-  <div style="display:flex;gap:6px;margin-bottom:10px;font-size:11px;text-transform:uppercase;">
-    <div style="flex:1;border:1px solid #1f2933;border-radius:6px;padding:6px 0;background:#020617;">
-      <div style="font-size:10px;color:#9ca3af;">Level</div>
-      <div style="font-size:14px;color:#00e5ff;font-weight:600;">17</div>
+<tr>
+  <td>NAME: SAFWAN</td>
+  <td align="right">LEVEL: 19</td>
+</tr>
+
+<tr>
+  <td>JOB: STUDENT</td>
+  <td align="right">FATIGUE: 0</td>
+</tr>
+
+<tr>
+  <td colspan="2">TITLE: ASCENDER </td>
+</tr>
+
+<tr>
+  <td colspan="2" style="padding-top:8px;">HP: 800 / 1000</td>
+</tr>
+
+<tr>
+  <td colspan="2">
+    <div style="background:#1a254f;border-radius:6px;height:8px;">
+      <div style="width:80%;background:red;height:8px;border-radius:6px;"></div>
     </div>
-    <div style="flex:1;border:1px solid #1f2933;border-radius:6px;padding:6px 0;background:#020617;">
-      <div style="font-size:10px;color:#9ca3af;">Rank</div>
-      <div style="font-size:14px;color:#22c55e;font-weight:600;">Awakening</div>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" style="padding-top:6px;">MP: 400 / 600</td>
+</tr>
+
+<tr>
+  <td colspan="2">
+    <div style="background:#1a254f;border-radius:6px;height:6px;">
+      <div style="width:66%;background:white;height:6px;border-radius:6px;"></div>
     </div>
-    <div style="flex:1;border:1px solid #1f2933;border-radius:6px;padding:6px 0;background:#020617;">
-      <div style="font-size:10px;color:#9ca3af;">Mode</div>
-      <div style="font-size:14px;color:#f97373;font-weight:600;">Grind</div>
-    </div>
-  </div>
+  </td>
+</tr>
 
-  <!-- XP BAR -->
-  <div style="text-align:left;font-size:11px;color:#9ca3af;margin:8px 0 4px;">
-    EXPERIENCE
-    <span style="float:right;color:#e5e7eb;">1720 / 2000 XP</span>
-  </div>
+<tr><td colspan="2"><hr></td></tr>
 
-  <div style="width:100%;height:8px;background:#020617;border-radius:999px;overflow:hidden;border:1px solid #1f2933;margin-bottom:10px;">
-    <!-- change width% when you level up -->
-    <div style="height:100%;width:86%;background:linear-gradient(90deg,#00e5ff,#38bdf8);"></div>
-  </div>
+<tr>
+  <td>STRENGTH: 90</td>
+  <td>VITALITY: 70</td>
+</tr>
+<tr>
+  <td>AGILITY: 85</td>
+  <td>INTELLIGENCE: 95</td>
+</tr>
+<tr>
+  <td>SENSE: 90</td>
+  <td>DISCIPLINE: 100</td>
+</tr>
 
-  <!-- Stats -->
-  <div style="display:flex;gap:10px;margin-top:4px;font-size:11px;color:#e5e7eb;">
-    <div style="flex:1;">
-      <div style="font-size:10px;color:#9ca3af;margin-bottom:2px;">Core Stats</div>
-      <div>Strength: <span style="color:#7df9ff;">65</span></div>
-      <div>Intelligence: <span style="color:#7df9ff;">80</span></div>
-      <div>Stamina: <span style="color:#7df9ff;">60</span></div>
-    </div>
-    <div style="flex:1;">
-      <div style="font-size:10px;color:#9ca3af;margin-bottom:2px;">System Metrics</div>
-      <div>Coding: <span style="color:#7df9ff;">72</span></div>
-      <div>Consistency: <span style="color:#facc15;">40</span></div>
-      <div>Discipline: <span style="color:#f97373;">35</span></div>
-    </div>
-  </div>
+<tr><td colspan="2"><hr></td></tr>
 
-  <!-- System message -->
-  <div style="margin-top:10px;padding-top:8px;border-top:1px solid #111827;font-size:11px;color:#9ca3af;text-align:left;">
-    Next Level Target: <span style="color:#e5e7eb;">2000 XP</span><br/>
-    System Message: <span style="color:#f97373;">“Weakness detected. Increase daily discipline.”</span>
-  </div>
+<tr>
+  <td>FOCUS RATE: 88%</td>
+  <td align="right" style="color:lime;">ACTIVE</td>
+</tr>
 
-  </div>
-</div>
+<tr>
+  <th colspan="2" style="padding-top:8px;">
+    REMAINING POINTS: 3
+  </th>
+</tr>
 
+</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
