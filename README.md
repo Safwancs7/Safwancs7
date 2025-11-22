@@ -59,3 +59,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Safwancs7&show_icons=true&theme=tokyonight" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
+
+## 🖥 SYSTEM STATUS
+
+![Level](https://img.shields.io/badge/LEVEL-17-0d1117?style=for-the-badge&labelColor=111&color=00e5ff)
+![Rank](https://img.shields.io/badge/RANK-AWAKENING-0d1117?style=for-the-badge&labelColor=111&color=00ff88)
+![Mode](https://img.shields.io/badge/MODE-GRIND-0d1117?style=for-the-badge&labelColor=111&color=ff0055)
+
+### ⚡ EXPERIENCE BAR
+![XP](https://progress-bar.dev/1720/?scale=2000&title=XP&width=500&color=00e5ff)
+
+### 📊 CURRENT STATS
+
+| ATTRIBUTE | VALUE |
+|--------|------|
+| Strength | 65 |
+| Intelligence | 80 |
+| Consistency | 40 |
+| Discipline | 35 |
+| Coding | 72 |
+| Stamina | 60 |
+
+> **Next Level Goal:** 2000 XP  
+> **System Message:** _"Weakness detected. Increase daily discipline."_
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
