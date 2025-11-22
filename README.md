@@ -60,27 +60,66 @@
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
 
-## 🖥 SYSTEM STATUS
+<!-- SYSTEM WINDOW -->
+<div align="center">
+  
+  <div style="max-width:430px;border:1px solid #00e5ff;border-radius:8px;padding:14px 18px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#050816;">
+    
+  <div style="font-size:14px;letter-spacing:0.18em;color:#7df9ff;text-transform:uppercase;margin-bottom:10px;text-align:left;">
+    SYSTEM STATUS
+  </div>
 
-![Level](https://img.shields.io/badge/LEVEL-17-0d1117?style=for-the-badge&labelColor=111&color=00e5ff)
-![Rank](https://img.shields.io/badge/RANK-AWAKENING-0d1117?style=for-the-badge&labelColor=111&color=00ff88)
-![Mode](https://img.shields.io/badge/MODE-GRIND-0d1117?style=for-the-badge&labelColor=111&color=ff0055)
+  <!-- Top line: Level / Rank / Mode -->
+  <div style="display:flex;gap:6px;margin-bottom:10px;font-size:11px;text-transform:uppercase;">
+    <div style="flex:1;border:1px solid #1f2933;border-radius:6px;padding:6px 0;background:#020617;">
+      <div style="font-size:10px;color:#9ca3af;">Level</div>
+      <div style="font-size:14px;color:#00e5ff;font-weight:600;">17</div>
+    </div>
+    <div style="flex:1;border:1px solid #1f2933;border-radius:6px;padding:6px 0;background:#020617;">
+      <div style="font-size:10px;color:#9ca3af;">Rank</div>
+      <div style="font-size:14px;color:#22c55e;font-weight:600;">Awakening</div>
+    </div>
+    <div style="flex:1;border:1px solid #1f2933;border-radius:6px;padding:6px 0;background:#020617;">
+      <div style="font-size:10px;color:#9ca3af;">Mode</div>
+      <div style="font-size:14px;color:#f97373;font-weight:600;">Grind</div>
+    </div>
+  </div>
 
-### ⚡ EXPERIENCE BAR
-![XP](https://progress-bar.dev/1720/?scale=2000&title=XP&width=500&color=00e5ff)
+  <!-- XP BAR -->
+  <div style="text-align:left;font-size:11px;color:#9ca3af;margin:8px 0 4px;">
+    EXPERIENCE
+    <span style="float:right;color:#e5e7eb;">1720 / 2000 XP</span>
+  </div>
 
-### 📊 CURRENT STATS
+  <div style="width:100%;height:8px;background:#020617;border-radius:999px;overflow:hidden;border:1px solid #1f2933;margin-bottom:10px;">
+    <!-- change width% when you level up -->
+    <div style="height:100%;width:86%;background:linear-gradient(90deg,#00e5ff,#38bdf8);"></div>
+  </div>
 
-| ATTRIBUTE | VALUE |
-|--------|------|
-| Strength | 65 |
-| Intelligence | 80 |
-| Consistency | 40 |
-| Discipline | 35 |
-| Coding | 72 |
-| Stamina | 60 |
+  <!-- Stats -->
+  <div style="display:flex;gap:10px;margin-top:4px;font-size:11px;color:#e5e7eb;">
+    <div style="flex:1;">
+      <div style="font-size:10px;color:#9ca3af;margin-bottom:2px;">Core Stats</div>
+      <div>Strength: <span style="color:#7df9ff;">65</span></div>
+      <div>Intelligence: <span style="color:#7df9ff;">80</span></div>
+      <div>Stamina: <span style="color:#7df9ff;">60</span></div>
+    </div>
+    <div style="flex:1;">
+      <div style="font-size:10px;color:#9ca3af;margin-bottom:2px;">System Metrics</div>
+      <div>Coding: <span style="color:#7df9ff;">72</span></div>
+      <div>Consistency: <span style="color:#facc15;">40</span></div>
+      <div>Discipline: <span style="color:#f97373;">35</span></div>
+    </div>
+  </div>
 
-> **Next Level Goal:** 2000 XP  
-> **System Message:** _"Weakness detected. Increase daily discipline."_
+  <!-- System message -->
+  <div style="margin-top:10px;padding-top:8px;border-top:1px solid #111827;font-size:11px;color:#9ca3af;text-align:left;">
+    Next Level Target: <span style="color:#e5e7eb;">2000 XP</span><br/>
+    System Message: <span style="color:#f97373;">“Weakness detected. Increase daily discipline.”</span>
+  </div>
+
+  </div>
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=27,20,14,8,4,0" width="100%"/>
