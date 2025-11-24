@@ -8,7 +8,7 @@
 - 👋 Hey, I’m **Safwan**
 - 💻 I’m interested in **Embedded Systems, IoT, ASIC, VLSI & Programming**
 - 🎓 I’m an **Electronics & Communication Engineering Undergraduate**
-- 📍 India
+- 📍 India, Kerala.
 - 📬 How to reach me: **safwancs143@gmail.com**
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -17,7 +17,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/safwan-cs/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-<a href="https://instagram.com/_safw4n__"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"></a>
+<a href="https://instagram.com/_safw4n__"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Safwancs7"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"></a>
 <a href="https://discord.com/users/safwan_cs"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a/>
 <a href="https://app.mulearn.org/dashboard/profile"><img src="https://img.shields.io/badge/MuLearn-00C853?style=for-the-badge&logo=leaflet&logoColor=white"></a>
@@ -48,7 +48,7 @@
 </p>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safwancs7&show_icons=true&theme=tokyonight" />
@@ -57,7 +57,8 @@
 
 <table align="center" style="border:2px solid #4ea3ff;background:#0b1d4f;color:white;
 padding:10px;border-radius:10px;width:360px;font-family:Arial;">
-  
+
+## 📈 User Stats
 <tr>
   <th colspan="2" style="font-size:20px;letter-spacing:4px;padding:8px 0;">
     STATUS
