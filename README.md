@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile;System+Activated;Access+Granted+✅" />
 </h1>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 👤 About Me
 
@@ -11,7 +11,7 @@
 - 📍 India
 - 📬 How to reach me: **safwancs143@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 🌐 Connect with Me
 
@@ -22,7 +22,7 @@
 <a href="https://discord.com/users/safwan_cs"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a/>
 <a href="https://app.mulearn.org/dashboard/profile"><img src="https://img.shields.io/badge/MuLearn-00C853?style=for-the-badge&logo=leaflet&logoColor=white"></a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 🚀 Tech Stack
 
@@ -46,14 +46,14 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safwancs7&show_icons=true&theme=tokyonight" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <table align="center" style="border:2px solid #4ea3ff;background:#0b1d4f;color:white;
 padding:10px;border-radius:10px;width:360px;font-family:Arial;">
@@ -131,5 +131,5 @@ padding:10px;border-radius:10px;width:360px;font-family:Arial;">
 </tr>
 
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3&section=header" width="100%"/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
