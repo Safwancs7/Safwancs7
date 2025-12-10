@@ -22,7 +22,7 @@
 <a href="https://discord.com/users/safwan_cs"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a/>
 <a href="https://app.mulearn.org/dashboard/profile"><img src="https://img.shields.io/badge/MuLearn-00C853?style=for-the-badge&logo=leaflet&logoColor=white"></a>
 <br>
-<a href=<a href="https://tryhackme.com/p/Safwan7"><img src="https://tryhackme-badges.s3.amazonaws.com/safwan7.png" alt="Your Image Badge" /></a>
+<a href=<a href="https://tryhackme.com/p/safwan7"><img src="https://tryhackme-badges.s3.amazonaws.com/safwan7.png" alt="Your Image Badge" /></a>
 </p>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
