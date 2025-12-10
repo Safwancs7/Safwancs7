@@ -3,7 +3,7 @@
 </h1>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-### 👤 About Me
+## 👤 About Me
 
 - 👋 Hey, I’m **Safwan**
 - 💻 I’m interested in **Embedded Systems, IoT, ASIC, VLSI & Programming**
