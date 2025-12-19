@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile;System+Activated;Access+Granted+✅" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome;System+Activated;Access+Granted+✅" />
 </h1>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 👤 About Me
 
 - 👋 Hey, I’m **Safwan**
-- 💻 I’m interested in **Embedded Systems, IoT, ASIC, VLSI & Programming**
+- 💻 I’m interested in **Embedded Systems, IoT, ASIC, VLSI, Programming & Web Development**
 - 🎓 I’m an **Electronics & Communication Engineering Undergraduate**
 - 📍 India, Kerala.
 - 📬 How to reach me: **safwancs143@gmail.com**
