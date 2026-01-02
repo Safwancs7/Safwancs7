@@ -20,7 +20,6 @@
 <a href="https://instagram.com/_safw4n__"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Safwancs7"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"></a>
 <a href="https://discord.com/users/safwan_cs"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a/>
-<a href="https://app.mulearn.org/dashboard/profile"><img src="https://img.shields.io/badge/MuLearn-00C853?style=for-the-badge&logo=leaflet&logoColor=white"></a>
 <br>
 <a href="https://tryhackme.com/p/safwan7"><img src="https://tryhackme-badges.s3.amazonaws.com/safwan7.png" alt="Your Image Badge" /></a>
 </p>
