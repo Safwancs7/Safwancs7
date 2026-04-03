@@ -72,7 +72,7 @@ padding:10px;border-radius:10px;width:360px;font-family:Arial;">
 
 <tr>
   <td>NAME: SAFWAN</td>
-  <td align="right">LEVEL: 19</td>
+  <td align="right">LEVEL: 20</td>
 </tr>
 
 <tr>
